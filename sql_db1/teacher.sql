@@ -1,0 +1,1 @@
+INSERT INTO `teacher`(`id`, `teacher_number`, `name`, `birth_date`, `gender`, `native_place`, `national`, `phone_number`) VALUES (1, '3001', '张鑫琦', '2022-07-05 00:00:00.000000', b'0', '河北', '汉族', '15731420025');

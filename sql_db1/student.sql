@@ -1,0 +1,1 @@
+INSERT INTO `student`(`id`, `student_number`, `name`, `birth_date`, `gender`, `native_place`, `national`, `phone_number`, `team_id`) VALUES (1, '2001', '张鑫琦', '2022-07-12 00:00:00.000000', b'1', '河北', '汉族', '15731420025', 1);
